@@ -6,10 +6,10 @@ The program is operated through the command line using the Administrator class.
 
 To run the simulation:
 
-java Administrator <filename> <days>
+java Administrator **filename** **days**
 
-<filename> - A text file containing the simulation configuration.
-(int) <days> - The number of days to simulate.
+_filename - A text file containing the simulation configuration.
+(int) days - The number of days to simulate._
 
 The configuration file must be located in the same directory as the Java source files.
 
