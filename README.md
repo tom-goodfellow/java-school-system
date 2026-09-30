@@ -8,9 +8,9 @@ To run the simulation:
 
 java Administrator **filename** **days**
 
-_filename - A text file containing the simulation configuration.
+_filename - A text file containing the simulation configuration._
 
-(int) days - The number of days to simulate._
+_(int) days - The number of days to simulate._
 
 The configuration file must be located in the same directory as the Java source files.
 
